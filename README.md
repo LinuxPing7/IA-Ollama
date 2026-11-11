@@ -53,5 +53,3 @@ ollama run llama3.2
 ```
 
 ---
-
-Listo
